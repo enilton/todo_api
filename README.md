@@ -10,6 +10,7 @@
 
 ## TESTES
 
+- Uma documentação da API está disponível em https://documenter.getpostman.com/view/2857760/2sA3Bj8DxL
 - A Solution possui um projeto de teste unitário para sua camada de negócio (Business) que pode ser executado. 
  - Obs: A persistência é realizada em memória na camada Repository e cada ciclo de testes realiza a limpeza das entidades já persistidas anteriormente.
 
